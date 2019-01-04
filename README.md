@@ -3,11 +3,16 @@
 ## please read the below links.
 https://javascript.info/class
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/extends
+
+### Great pre-interview medium post.
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36
+
 # - Basics of classes
 ## Set of Questions
 1. what is polymorphisum?
 1. what is inheritence?
-1. what is a stack method on a class and why would I use it?
+1. what is a static method on a class and why would I use it?
+
 
 
 ## 1. creating a person.
