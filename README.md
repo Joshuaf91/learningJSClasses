@@ -13,7 +13,9 @@ https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-cl
 1. what is inheritence?
 1. what is a static method on a class and why would I use it?
 
-
+create this structure.
+[![inheritance](https://azrael.digipen.edu/~mmead/www/Courses/CS270/vehicle.gif "inheritance")](https://azrael.digipen.edu/~mmead/www/Courses/CS270/vehicle.gif "inheritance")
+#### Using classes create a vehicle from any of the bottom teirs that contains all attribuits from the classes above it. E.G a Car should have all attributes that 4 wheels, Land Vehicle and Vehicle contains.
 
 ## 1. creating a person.
 ##### - Create a class that represents a Person and name the class Person.
@@ -25,7 +27,8 @@ https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-cl
 
 ## 3. creating a Game.
 ##### - Create a class that represents a Game
-##### Game should accept x arguments. (Array = [Person, Person])
+##### Game should accept 2 arguments. (Array = [Person, Person], Gameboard)
 
 ## 3. Programatical task.
+##### Create a game that contains two players. 
 
